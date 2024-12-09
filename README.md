@@ -1,25 +1,113 @@
-<h1 align="center">Hi 👋, I'm Navdeep</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
+  <a href="https://github.com/ofcnavdeep">
+  <img  src="https://raw.githubusercontent.com/MannuVilasara/MannuVilasara/f2d01ce2f26022eba3a758b7cae35779dcea97cd/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-- 🔭 I’m currently working on **Our Discord Bot**
+-----
+```console
+mannu@archbtw:~$ neofetch
 
-- 🌱 I’m currently learning **Assembly Language**
+                   .~vVeZNgQBBBQQg9Ze1v~.                   
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 navi@desky
+           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 17 years
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: 1030 (pacman)
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
+  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: vim, vscode
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:Navdeep
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
+a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
+#@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
+@@@@@@@@@@@.                                     @@@@@@@@@@%   Website:navdeep.xyz
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: ofcnavdeep
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   
+~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    device specifications 
+ ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    ---------------------  
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     CPU: Normal Human Brain
+   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
+    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.
+      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         
+        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             
+              "Lf8@@@@v              q@@@#Qa?:                 
+                  -!v|`              _?v!`                     
+```
 
-- 📫 How to reach me **singh198navdeep@gmail.com**
+<details>
+  <summary>🧮 about</summary>
+<div>
+<samp>
+<h2 align="center">About this Account</h2>
+ <p align="center">
+  <a href="github.com/ofcnavdeep" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=ofcnavdeep&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     alt="views count" /></a>
+  <a href="https://dev-desky.vercel.app/"><img align="center" 
+     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25"
+     alt="website" /></a>
+  </p>
+ </samp>
+</div>
+</details>
+  
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+  <samp>
+    <h2 align="center"> Github stats </h2>
+      <br/>
+    <details open>
+  <summary><h3>Languages</h3></summary>
+            <p align="center">
+        <a href="https://github.com/ofcnavdeep/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofcnavdeep&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="Mannu :: overall Top Langs " /></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/ofcnavdeep/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ofcnavdeep&theme=gruvbox&layout=compact&hide_border=true"
+          alt="Mannu :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ofcnavdeep&theme=gruvbox&layout=compact&hide_border=true"
+          alt="desky :: Top Langs by commit" />
+          </a>
+        </p>
+</details>
+    <details open>
+  <summary><h3>stasistic</h3></summary>
+        <p align="center">
+          <a href="https://github.com/ofcnavdeep/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ofcnavdeep&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ofcnavdeep&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+     </samp>
+  </div>    
+</details>
 
-- ⚡ Fun fact **Call Me Desky**
+<details>
+  <summary>📈 Latest Activity Graph</summary>
+  <samp>
+  <br/>
+  <h2 align="center"> latest contribution </h2>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ofcnavdeep&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<br/>
+  </samp>
+  </details>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ofcnavdeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ofcnavdeep" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ofcnavdeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ofcnavdeep" height="30" width="40" /></a>
-<a href="https://fb.com/navdeep990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="navdeep990" height="30" width="40" /></a>
-<a href="https://instagram.com/imx_navdeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imx_navdeep" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/n.s mind list" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="n.s mind list" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/dA6BAKtM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/dA6BAKtM" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://clojure.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/> </a> <a href="https://offeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-icon.svg" alt="nim" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ofcnavdeep&" alt="ofcnavdeep" /></p>
+  
+ <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E7334&center=true&vCenter=true&width=435&lines=Freelance+embedded+device+developer;have+high+creativity;Able+to+work+in+team+or+individual+" alt="Typing SVG" /></a></p>
+  
+  
+-----
+
+[![Skills](https://skillicons.dev/icons?i=js,html,css,py,neovim,vscode,mysql,mongodb,md,linux,flask,git,github,githubactions,bots)](https://skillicons.dev)
+
+### Find me here
+ [![insta](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/imx_navdeep)
+[![dev](https://skillicons.dev/icons?i=discord)](https://discord.com/users/227217543364870145)
