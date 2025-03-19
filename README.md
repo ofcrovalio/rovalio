@@ -6,21 +6,21 @@
 
 -----
 ```console
-mannu@archbtw:~$ neofetch
+navi@dexky:~$ neofetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
               `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 navi@desky
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
-      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 17 years
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 16 years
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: 1030 (pacman)
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: vim, vscode
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:Navdeep
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:ofcnavdeep
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
 #@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
-@@@@@@@@@@@.                                     @@@@@@@@@@%   Website:navdeep.xyz
+@@@@@@@@@@@.                                     @@@@@@@@@@%   
 #@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: ofcnavdeep
 W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    device specifications 
@@ -108,6 +108,3 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 
 [![Skills](https://skillicons.dev/icons?i=js,html,css,py,neovim,vscode,mysql,mongodb,md,linux,flask,git,github,githubactions,bots)](https://skillicons.dev)
 
-### Find me here
- [![insta](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/imx_navdeep)
-[![dev](https://skillicons.dev/icons?i=discord)](https://discord.com/users/227217543364870145)
