@@ -1,27 +1,27 @@
 <div align="center">
-  <a href="https://github.com/ofcnavdeep">
+  <a href="https://github.com/ofcrovalio">
   <img  src="https://raw.githubusercontent.com/MannuVilasara/MannuVilasara/f2d01ce2f26022eba3a758b7cae35779dcea97cd/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
 -----
 ```console
-navi@dexky:~$ neofetch
+rovalio@dead:~$ neofetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 navi@desky
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 rovalio@dead
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
       _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 16 years
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: 1030 (pacman)
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: vim, vscode
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:ofcnavdeep
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:ofcrovalio
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
 #@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
 @@@@@@@@@@@.                                     @@@@@@@@@@%   
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: ofcnavdeep
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: ofcrovalio
 W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    device specifications 
  ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    ---------------------  
